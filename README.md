@@ -14,7 +14,8 @@ Edit config/sharexConfig.js to change / create users, change file storage locati
 
 Edit config/sqlConfig.js to add sql credentials.
 
-```sh
+```
+sh
 cd [clone dir]
 npm install // atm no package file //
 sudo node main.js
@@ -28,7 +29,8 @@ Apply reverse proxy (if you want).
 
 Make changes to the following, copy and import from clipboard as a destination:
 
-```{
+```
+{
   "Name": "Share.Lyka.Pro",
   "RequestType": "POST",
   "RequestURL": "http://share.lyka.pro:6969/",
