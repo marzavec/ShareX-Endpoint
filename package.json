@@ -1,0 +1,24 @@
+{
+  "name": "ShareX-Endpoint",
+  "version": "0.0.1a",
+  "description": "Simple customizable multi-user image storage application designed with ShareX in mind.",
+  "main": "main.js",
+  "dependencies": {
+    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "marzavec",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marzavec/ShareX-Endpoint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marzavec/ShareX-Endpoint/issues"
+  },
+  "homepage": "https://github.com/marzavec/ShareX-Endpoint",
+}
